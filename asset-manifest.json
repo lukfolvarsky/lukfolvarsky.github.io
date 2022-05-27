@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9ae748b2.css",
-    "main.js": "/react-gh-pages/static/js/main.e863c842.js",
-    "static/js/787.9e257113.chunk.js": "/react-gh-pages/static/js/787.9e257113.chunk.js",
-    "static/media/depaul-css-logo-full-10 (2).png": "/react-gh-pages/static/media/depaul-css-logo-full-10 (2).ea93f22e7632e6d53e51.png",
-    "static/media/zoom-room-backgrounds_2-1.webp": "/react-gh-pages/static/media/zoom-room-backgrounds_2-1.4417e6f0577b26a07370.webp",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9ae748b2.css.map": "/react-gh-pages/static/css/main.9ae748b2.css.map",
-    "main.e863c842.js.map": "/react-gh-pages/static/js/main.e863c842.js.map",
-    "787.9e257113.chunk.js.map": "/react-gh-pages/static/js/787.9e257113.chunk.js.map"
+    "main.css": "/lukfolvarsky/static/css/main.09473e86.css",
+    "main.js": "/lukfolvarsky/static/js/main.68600a36.js",
+    "static/js/787.9e257113.chunk.js": "/lukfolvarsky/static/js/787.9e257113.chunk.js",
+    "static/media/depaul-css-logo-full-10 (2).png": "/lukfolvarsky/static/media/depaul-css-logo-full-10 (2).ea93f22e7632e6d53e51.png",
+    "static/media/zoom-room-backgrounds_2-1.webp": "/lukfolvarsky/static/media/zoom-room-backgrounds_2-1.4417e6f0577b26a07370.webp",
+    "index.html": "/lukfolvarsky/index.html",
+    "main.09473e86.css.map": "/lukfolvarsky/static/css/main.09473e86.css.map",
+    "main.68600a36.js.map": "/lukfolvarsky/static/js/main.68600a36.js.map",
+    "787.9e257113.chunk.js.map": "/lukfolvarsky/static/js/787.9e257113.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae748b2.css",
-    "static/js/main.e863c842.js"
+    "static/css/main.09473e86.css",
+    "static/js/main.68600a36.js"
   ]
 }
